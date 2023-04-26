@@ -12,6 +12,10 @@ Furthermore, XYZ is being continually developed and updated, ensuring that it st
 
 Overall, XYZ is an impressive tool that has the potential to revolutionize the way we approach security and reconnaissance. With its intuitive interface and powerful features, it is sure to become an essential tool for anyone serious about online security.
 
+#LEGAL NOTICE
+
+`THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.`
+
 
 
 
