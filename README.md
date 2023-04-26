@@ -1,5 +1,6 @@
-# XYZ
-Introducing XYZ - a versatile and dynamic tool that is currently under development, promising to provide a comprehensive suite of features to meet your needs. With its impressive array of capabilities, XYZ has the potential to become an indispensable tool for those looking to enhance their security and reconnaissance efforts.
+# XYZ - Python 3 app for SECURITY TESTING PURPOSES ONLY!
+
+`Introducing XYZ - a versatile and dynamic tool that is currently under development, promising to provide a comprehensive suite of features to meet your needs. With its impressive array of capabilities, XYZ has the potential to become an indispensable tool for those looking to enhance their security and reconnaissance efforts.`
 
 ![Screenshot 2023-04-26 094436](https://user-images.githubusercontent.com/119898049/234522222-a5334b1d-1c4d-4051-9222-a492dc4cd7cb.png)
 
