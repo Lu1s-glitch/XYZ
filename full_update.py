@@ -328,7 +328,7 @@ def full_update():
             print(f"{BLUE}[*]Installing SecLists...{NC}")
             print()
         
-        if os.path.isdir('/opt/ShaepCollection/.git'):
+        if os.path.isdir('/opt/SharpCollection/.git'):
             print(f"{BLUE}[*]Updating SharpCollection...{NC}")
             os.chdir('/opt/SharpCollection')
             os.system('git pull')
